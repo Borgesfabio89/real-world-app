@@ -1,0 +1,28 @@
+{
+  "userSuccess": {
+    "username": "Reyes.Osinski",
+    "password": "s3cret"
+  },
+
+  "userFail": {
+    "username": "teste",
+    "password": "teste"
+  },
+
+  "signUpSuccess": {
+    "firstName": "Simono",
+    "lastName": "Cenouro",
+    "username": "simono.cenouro",
+    "password": "123456",
+    "confirmPassword": "123456"
+},
+  
+  "signUpFail": {
+    "firstName": "Simono",
+    "lastName": "Cenouro",
+    "userName": "simono.cenouro",
+    "password": "123456",
+    "confirmPassword": "12345"
+}
+
+}
