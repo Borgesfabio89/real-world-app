@@ -23,6 +23,23 @@
     "userName": "simono.cenouro",
     "password": "123456",
     "confirmPassword": "12345"
+},
+
+"AmountFieldSuccess": {
+  "amount": "100,00"
+},
+
+"AddANoteFieldSuccess": {
+  "note": "Real"
+},
+
+"AmountFieldFail": {
+  "amount": "teste"
+},
+
+"AddANoteFieldFail": {
+  "note": "teste"
 }
+
 
 }
